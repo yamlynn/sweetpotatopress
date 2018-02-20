@@ -1,6 +1,12 @@
 title: Sweet Potato Press               
 email: 7yr@protonmail.com
-baseurl: /
 
-# Build settings
 markdown: kramdown
+highlighter: rouge
+
+baseurl: /
+permalink: /:title
+
+releases: 'releases.html'
+about: 'about.html'
+social: 'social.html'

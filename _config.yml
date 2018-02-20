@@ -1,4 +1,4 @@
-title: Sweet Potato Press               
+title: sweet potato press               
 email: 7yr@protonmail.com
 
 markdown: kramdown
@@ -6,7 +6,3 @@ highlighter: rouge
 
 baseurl: /
 permalink: pretty
-
-releases: 'releases'
-about: 'about'
-social: 'social'

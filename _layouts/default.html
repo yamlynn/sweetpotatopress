@@ -25,8 +25,16 @@
 </head>
 
 <body>
+<header>
+    <h4>
 
-  <div class="content">
+	<a href="/">home</a> | 
+	<a href="/releases">releases</a> | 
+        <a href='/about'>about</a> |
+        <a href='/social'>social</a>
+    </h4>
+</header>
+	<div class="content">
     {{ content }}
   </div>
 
@@ -34,9 +42,9 @@
     <hr/>
     <section>
         <a href='/'>home</a> |         
-        <a href='{{ site.baseurl }}{{ page.releases }}'>releases</a> | 
-	<a href='{{ site.baseurl }}{{ page.about }}'>about</a> |
-	<a href='{{ site.baseurl }}{{ page.social }}'>social</a>
+        <a href='/releases'>releases</a> | 
+	<a href='/about'>about</a> |
+	<a href='/social'>social</a>
     </section>
   </footer>
 </body>

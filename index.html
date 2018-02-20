@@ -2,21 +2,8 @@
 layout: default 
 title: Home
 cover: false
-releases: 'releases.html'
-about: 'about.html'
-social: 'social.html'
 ---
 
-<header>
-    <h4>
-
-	<a href="/">home</a> | 
-        <a href='{{ site.baseurl }}{{ page.releases }}'>releases</a> | 
-        <a href='{{ site.baseurl }}{{ page.about }}'>about</a> |
-        <a href='{{ site.baseurl }}{{ page.social }}'a>social</a>
-    </h4>
-</header>
-    
 
  <main class="parent">
     {% for post in site.posts %}

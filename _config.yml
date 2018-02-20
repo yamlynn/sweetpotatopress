@@ -5,8 +5,8 @@ markdown: kramdown
 highlighter: rouge
 
 baseurl: /
-permalink: /:title
+permalink: pretty
 
-releases: 'releases.html'
-about: 'about.html'
-social: 'social.html'
+releases: 'releases'
+about: 'about'
+social: 'social'

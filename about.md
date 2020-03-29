@@ -1,17 +1,12 @@
 ---
 
 layout: page
-title: about
+title: store
 
 ---
 <p>
 
-</p>
-<p>
-For promotion, bookings, or interest in a track review on sweet potato press. <br>
 
-7yr@protonmail.com
-</p>
  
 
 

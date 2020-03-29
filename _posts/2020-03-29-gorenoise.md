@@ -1,0 +1,34 @@
+---
+title: album review - " headgore. vs. cody brant. // theres gotta be more to this​.​.​. "
+layout: post
+---
+<style>
+p2{
+	font-size: 10px;
+}
+</style>
+
+
+ 
+<body>
+<h2>album review</h2>
+<h4> headgore. vs. cody brant. // theres gotta be more to this​.​.​. </h4>
+<p2> >for full effect listen while reading.< <br> ... </p2>
+<br><br>
+<p>
+	Slowed heavy screaming reminiscing of a pale moon tumbling over itself. I cant help but be engaged into the motor-like rotations of the sounds collapsing into clicking repititions which automatically pull me in with thier meticulous nature that evolves into heavy walls of blaring noisy screams. Articulating my anxiety for the world at large and the state of the sanctimonious affairs of man. An experience that stirs the very essence of my being and causes the hairs on my neck to stand in a gruesome mix of auditory love and fear.
+<br><br>
+	The curse starting to take full form on my mind as the rotating circular drum patters continues, causing the ghost like apparitions in my basement to take form and swallow my soul with sonic waves that pulse into my being like cold fire. The creeping, almost painful, screeching of guitars and electronic synths brings to mind images dare not spoken for fear of bringing out something deeper and hidden.
+<br><br>
+ 	Blast beats at the perfect moment causing me to stand and move like ive been possessed, glowingly returning to the subconscious goo i once was. I've become stuck in the aural sphere of thought. I can hardly contain the last of my sentience as the music grips my heart causing me to undergo what I can only describe as menacing contingence while a metaphysical sarcophagus inches closer. I have no choice but to run!
+<br><br>
+	My blood thickens and my legs slow, I have no more control as the demons lurk closer. My mind stuck in a small hole in the wall encompassed by dark rolling staircases of doom, I sense the goblins in holes nearby closing in on me as I try my hardest to keep them out. The noise does not allow it. Clouds of fog rolling over the structure I reside in being the only reprieve from those that search for me.
+<br><br>
+ 	Ive been found. The ritual has begun and there is no where to go as ive been blinded by an inconceivable force that slightly resembles auric chains. With the creatures dancing around me I try to scream but no sound arises. my brain cripples into dust as I feel nothing but pain that reminds me of whatever humanity may remain. 
+<br><br>
+	Nothing is left but a prison of energy. I dont know how long ive been here or why. All i understand is a far away thought of entities keeping me in my cage. With a piercing never ending screech I feel pain, destruction, and muffled yells all around me but I know not what that means. This is who I am. This is what I have become. I remember nothing of my past and feel no passing of time. This is all that is left. This is all that is left. 
+</p>
+
+<center><iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3590095167/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://headgore.bandcamp.com/album/headgore-vs-cody-brant-theres-gotta-be-more-to-this">headgore. vs. cody brant. // theres gotta be more to this... by headgore</a></iframe></center>
+
+</body>

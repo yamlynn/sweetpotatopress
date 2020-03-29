@@ -1,0 +1,69 @@
+---
+
+layout: page
+title: music
+
+---
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
+<div class="column">
+<h2>yam lynn</h2>
+
+<p>
+wait, who are u, <a href="https://yamlynn.bandcamp.com/album/wait-who-are-u">jan. 2020</a>
+<br />
+4 yams, <a href="https://yamlynn.bandcamp.com/album/4-yams">nov. 2019</a>
+<br />
+open mic, <a href="https://yamlynn.bandcamp.com/album/open-mic">apr. 2019</a>
+<br />
+Lithium, <a href="https://yamlynn.bandcamp.com/album/lithium">feb. 2018</a>
+<br />
+Ouch, <a href="https://yamlynn.bandcamp.com/album/ouch">aug. 2017</a>
+<br />
+Untitled, <a href="https://yamlynn.bandcamp.com/album/untitled">apr. 2017</a>
+<br />
+spring, <a href="https://yamlynn.bandcamp.com/album/spring">apr. 2017</a>
+<br />
+its 2 much ᵛᵒᶫ2, <a href="https://yamlynn.bandcamp.com/album/its-2-much-2-2">oct. 2016</a>
+<br />
+its 2 much, <a href="https://yamlynn.bandcamp.com/album/its-2-much">aug. 2016</a> 
+</p>
+</div> 
+
+<div class="column">
+<h2>Splits</h2>
+    <p> 
+☆ torrent charm ☆ - yam lynn / scum alice <a href="https://yamlynn.bandcamp.com/album/torrent-charm"> feb. 2020 </a>
+<br>
+
+Yam Lynn / Strober / Princess Molasses / LickNand <a href="https://trapperkeeperr.bandcamp.com/album/yam-lynn-strober-princess-molasses-licknand"> dec. 2019 </a>
+</p>
+</div>
+
+<div class="column">
+<h2> yinyinyinyinyinyinyinyinyinyinyinyinyinyinyinyinyinyinyinyinyinyinyinyinyinyin </h2>
+<p>
+YANGYANGYANGYANGYANGYANG, <a href="https://dietpepsi3.bandcamp.com/album/yangyangyangyangyangyang"> mar. 2020 </a>
+</p>
+</div>
